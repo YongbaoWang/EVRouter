@@ -80,7 +80,7 @@
 - (BOOL)performActionWithURL:(NSURL *)url;
 
 /**
- 更新路由表
+ 更新路由表（需实现 EVRouterListUpdatePolicy 代理协议）
  */
 - (void)updateRouterList;
 
