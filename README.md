@@ -5,7 +5,7 @@
 - 支持自定义安全处理策略；
 - 支持远程下发路由表；
 ## Install with cocoapods
-> pod 'EVRouter', '~> 0.0.1'
+pod 'EVRouter', '~> 0.0.1'
 ## API
 ```
 @interface EVRouter : NSObject
