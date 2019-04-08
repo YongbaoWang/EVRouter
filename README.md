@@ -89,3 +89,7 @@ pod 'EVRouter', '~> 0.0.1'
 @end
 
 ```
+
+
+# 微信公众号 ：汪汪的世界
+![(WeChat)](https://github.com/YongbaoWang/EverShowPath/blob/master/EverShowPath/wechat_num.jpg)
